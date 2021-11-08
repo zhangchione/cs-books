@@ -172,10 +172,10 @@
 目前我把书籍的PDF都暂时放在公众号【ConeZhang】里面了，扫码关注下面公众号，回复「小书库」
 就有我收集的上百本经典计算机书籍，包含各个方向：
 
-![](./image/WechatIMG190.jpeg)
+![](https://chengdu-chuanyin.oss-cn-chengdu.aliyuncs.com/20211108-lmI7w.jpeg)
 
 
-![](./image/header.jpg)
+![](https://chengdu-chuanyin.oss-cn-chengdu.aliyuncs.com/20211108-y0rZG.jpg
 
 **微信扫描上方二维码回复「小书库」**
 
